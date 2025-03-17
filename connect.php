@@ -1,0 +1,10 @@
+<?php
+$con = mysqli_connect('localhost','u627331213_victor','','u627331213_ridewithme');
+
+if(!$con){
+    die(mysqli_error("Error" +$con));
+}
+
+
+
+?>
