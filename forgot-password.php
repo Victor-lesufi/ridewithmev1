@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect('localhost', 'u627331213_victor', '076victorL%', 'u627331213_ridewithme');
+$conn = mysqli_connect('localhost', 'root', '', 'ridewithme');
 
 
 if (isset($_POST['submit'])) {

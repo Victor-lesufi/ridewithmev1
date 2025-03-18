@@ -100,9 +100,9 @@ if (isset($_SESSION['username'])) {
     <h2 style="color: black" >Chatbot</h2>
 </header>
 <div class="container">
-    <h5 class="mt-5">Welcome to 24/7 chatAI <?php echo $_SESSION['name'];?>!,<br>the name of this robot is Moleta-Israel.</h5>
+    <h5 class="mt-5">Welcome  <?php echo $_SESSION['name'];?>!,</h5>
     <img class="image" src="images/robot.jpeg" alt=""><br><br>
-    <p>You will be chatting with a robot (Moleta-Israel). It will try to answer any questions you might have to the best of its ability. If it doesn't help you, go to your home page and search for <strong>Victor Lesufi</strong>; he will resolve issues you might have.</p>
+   
     <div class="cnt">
         <button><a href="bot.php" style="color: #fff; text-decoration: none;">Continue to chat</a></button>
     </div>

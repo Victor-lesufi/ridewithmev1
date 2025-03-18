@@ -38,7 +38,7 @@
 
    
     <div class="wrapper">
-        <div class="title">Moleta Israel  <i class="fa fa-check" aria-hidden="true"style="color:white; background-color: blue;border-radius:50%; border:1px solid blue;height:16px;width:16px;line-height:16px;font-size: 16px;"></i></div>
+        <div class="title">Bot  <i class="fa fa-check" aria-hidden="true"style="color:white; background-color: blue;border-radius:50%; border:1px solid blue;height:16px;width:16px;line-height:16px;font-size: 16px;"></i></div>
         <div class="form">
             <div class="bot-inbox inbox">
                 

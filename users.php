@@ -102,9 +102,9 @@ include 'app/db.conn.php';
 
 
 $servername = "localhost";
-$username = "u627331213_victor";
-$password = "076victorL%";
-$dbname = "u627331213_ridewithme";
+$username = "root";
+$password = "";
+$dbname = "ridewithme";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

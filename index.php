@@ -285,7 +285,7 @@ a{
                         <input type="submit" value="LOGIN" name="sbt"><br>
                         Not yet Signedup? <a href="signup.php">Signup here</a> <br><br>
                         <!--<a href="forgot-password.php">Forgot Password?</a><br><br><br><br>-->
-                        <a href="profile.php">Victor Lesufi</a> &copy 2024
+                        <!-- <a href="profile.php">Victor Lesufi</a> &copy 2024 -->
                         
                     </div>
 

@@ -56,3 +56,11 @@
 [2024-10-02 16:52:26] Successful login: User victor logged in.
 [2024-10-02 16:52:57] Successful login: User victor logged in.
 [2024-10-02 16:56:44] Successful login: User victor logged in.
+[2025-03-18 09:08:55] Failed login attempt: Incorrect username 'Victor'.
+[2025-03-18 09:09:21] Failed login attempt: Incorrect username 'Victor'.
+[2025-03-18 09:11:03] Successful login: User victor logged in.
+[2025-03-18 09:51:17] Successful login: User victor logged in.
+[2025-03-18 10:07:22] Successful login: User amos logged in.
+[2025-03-18 10:15:08] Successful login: User victor logged in.
+[2025-03-18 10:23:30] Successful login: User amos logged in.
+[2025-03-18 10:24:17] Successful login: User victor logged in.
