@@ -1,34 +1,5 @@
-[2024-09-28 22:30:10] - Username 'kholu' is available, proceeding to the next steps.
-[2024-09-28 22:30:10] - No profile picture uploaded for user 'kholu'. Proceeding without a profile picture.
-[2024-09-28 22:30:10] - Email 'kholu@gmail.com' is available, proceeding with registration.
-[2024-09-28 22:30:10] - User 'kholu' successfully registered without profile picture.
-[2024-09-28 22:30:10] - Registration successful for user 'kholu'. Redirecting to login page.
-[2024-09-28 22:32:29] - Username 'retha' is available, proceeding to the next steps.
-[2024-09-28 22:32:29] - Profile picture uploaded successfully for user 'retha'.
-[2024-09-28 22:32:29] - Email 'retha@gmail.com' is available, proceeding with registration.
-[2024-09-28 22:32:29] - User 'retha' successfully registered with profile picture.
-[2024-09-28 22:32:29] - Registration successful for user 'retha'. Redirecting to login page.
-[2024-09-29 07:03:22] - [write_log] - Username 'irene' is available, proceeding to the next steps.
-[2024-09-29 07:03:22] - [write_log] - No profile picture uploaded for user 'irene'. Proceeding without a profile picture.
-[2024-09-29 07:03:22] - [write_log] - Email 'irene@gmail.com' is available, proceeding with registration.
-[2024-09-29 07:03:22] - [write_log] - User 'irene' successfully registered without profile picture.
-[2024-09-29 07:03:22] - [write_log] - Registration successful for user 'irene'. Redirecting to login page.
-[2024-09-29 17:14:11] - [write_log] - Failed registration attempt: Required fields are missing.
-[2024-09-30 07:35:55] - [write_log] - Failed registration attempt: Username 'irene' already exists.
-[2024-09-30 08:41:30] - [write_log] - Failed registration attempt: Name is missing.
-[2024-09-30 09:00:00] - [write_log] - Username 'sekina' is available, proceeding to the next steps.
-[2024-09-30 09:00:00] - [write_log] - No profile picture uploaded for user 'sekina'. Proceeding without a profile picture.
-[2024-09-30 09:00:00] - [write_log] - Email 'sekina@gmail.com' is available, proceeding with registration.
-[2024-09-30 09:00:00] - [write_log] - User 'sekina' successfully registered without profile picture.
-[2024-09-30 09:00:00] - [write_log] - Registration successful for user 'sekina'. Redirecting to login page.
-[2025-03-18 09:08:46] - [write_log] - Username 'victor' is available, proceeding to the next steps.
-[2025-03-18 09:08:46] - [write_log] - No profile picture uploaded for user 'victor'. Proceeding without a profile picture.
-[2025-03-18 09:08:46] - [write_log] - Email 'victor.lesufi@gmail.com' is available, proceeding with registration.
-[2025-03-18 09:08:46] - [write_log] - User 'victor' successfully registered without profile picture.
-[2025-03-18 09:08:46] - [write_log] - Registration successful for user 'victor'. Redirecting to login page.
-[2025-03-18 10:07:14] - [write_log] - Username 'amos' is available, proceeding to the next steps.
-[2025-03-18 10:07:14] - [write_log] - No profile picture uploaded for user 'amos'. Proceeding without a profile picture.
-[2025-03-18 10:07:14] - [write_log] - Email 'amos@gmail.com' is available, proceeding with registration.
-[2025-03-18 10:07:14] - [write_log] - User 'amos' successfully registered without profile picture.
-[2025-03-18 10:07:14] - [write_log] - Registration successful for user 'amos'. Redirecting to login page.
-[2025-03-18 10:18:32] - [write_log] - Failed registration attempt: Name is missing.
+[2025-03-18 10:52:41] - [write_log] - Username 'llifi' is available, proceeding to the next steps.
+[2025-03-18 10:52:41] - [write_log] - Profile picture uploaded successfully for user 'llifi'.
+[2025-03-18 10:52:41] - [write_log] - Email 'victor.lesufi2@gmail.com' is available, proceeding with registration.
+[2025-03-18 10:52:41] - [write_log] - User 'llifi' successfully registered with profile picture.
+[2025-03-18 10:52:41] - [write_log] - Registration successful for user 'llifi'. Redirecting to login page.

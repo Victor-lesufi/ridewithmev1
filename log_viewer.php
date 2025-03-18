@@ -34,12 +34,12 @@
             text-align: center;
             margin-bottom: 20px;
             font-size: 24px;
-            color: #00ff00; /* Bright green color for title */
+            color: red; /* Bright green color for title */
         }
 
         .log-entry {
             background-color: #3e3e3e; /* Background for log entries */
-            border-left: 5px solid #00ff00; /* Green border for entries */
+            border-left: 5px solid red; /* Green border for entries */
             margin-bottom: 10px;
             padding: 10px;
             border-radius: 2px; /* Reduced rounding for entries */
@@ -70,7 +70,7 @@
         }
 
         .container::-webkit-scrollbar-thumb {
-            background-color: #00ff00; /* Bright green scrollbar */
+            background-color: red; /* Bright green scrollbar */
             border-radius: 20px;
             border: 3px solid #1e1e1e; /* Match the scrollbar track */
         }
