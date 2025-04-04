@@ -65,7 +65,7 @@ include 'app/db.conn.php';
     .msg{
         background-color: #1877F2;
         border-radius: 8px;
-        width: 50%;
+        width: 80%;
         color: white;
         font-weight: bold;
         line-height: 30px;

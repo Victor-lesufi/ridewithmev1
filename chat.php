@@ -159,7 +159,7 @@ color: red;
             <div class="alert alert-info 
                         text-center">
                 <i class="fa fa-comments d-block fs-big"></i>
-              <small>You and this user have no chat history,messages are encrypted only you and  '<?=$chatWith['name']?>' can see them. </small>
+              <small>You and this user have no chat history, you and  '<?=$chatWith['name']?>' can see them. </small>
             </div>
     <?php } ?>
 

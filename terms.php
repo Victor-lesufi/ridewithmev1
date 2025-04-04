@@ -15,10 +15,10 @@
     </div>
     <div class="terms">
         <h2>Terms and conditions</h2>
-        <p>if anything happens, nna ake ditsene you are on your own🤞</p>
+        <!-- <p>if anything happens, nna ake ditsene you are on your own🤞</p> -->
     </div>
     
-        
+<!--         
         <p>
 
 
@@ -63,7 +63,7 @@ By using   RidewithMe webApp, you acknowledge that you have read, understood, an
 
 
 
-</p>
+</p> -->
     
 
     <style>
