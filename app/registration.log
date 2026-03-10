@@ -1,1 +1,7 @@
 [2025-04-01 15:58:21] - [write_log] - Failed registration attempt: Username 'gift' already exists.
+[2025-09-08 20:44:53] - [write_log] - Username 'pertu' is available, proceeding to the next steps.
+[2025-09-08 20:44:53] - [write_log] - No profile picture uploaded for user 'pertu'. Proceeding without a profile picture.
+[2025-09-08 20:44:53] - [write_log] - Email 'pertu@gmail.com' is available, proceeding with registration.
+[2025-09-08 20:44:53] - [write_log] - User 'pertu' successfully registered without profile picture.
+[2025-09-08 20:44:53] - [write_log] - Registration successful for user 'pertu'. Redirecting to login page.
+[2025-09-09 11:17:33] - [write_log] - Failed registration attempt: Name is missing.
