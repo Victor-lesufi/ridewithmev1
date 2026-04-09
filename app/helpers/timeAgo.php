@@ -21,6 +21,8 @@ function last_seen($date_time) {
         } else {
             return $diff . " " . $strTime[$i] . "(s) ago ";
         }
-   }
+   }else {
+      die();}
 }
+
 ?>
